@@ -2,8 +2,56 @@ fileFormatVersion: 2
 guid: fe0cfa69ba0f5464cb872e3c37f2cc91
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
-  externalObjects: {}
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyebrow001.002
+    second: {fileID: 2100000, guid: 4cd37debfd1cd5948ba40bd5e0113f66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyelashes02
+    second: {fileID: 2100000, guid: 0e3486e1c87ab4744822a9501596f25a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f_dress_08
+    second: {fileID: 2100000, guid: ee12a023d62f1e34e98b25d92b369917, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: female_generic.002
+    second: {fileID: 2100000, guid: bd38afbf51367cb4996b89ed8cd7714f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: high-poly.009
+    second: {fileID: 2100000, guid: ad0eb65dbeab3c64ebe32fbcd78a5c07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: high_heels_library.002
+    second: {fileID: 2100000, guid: 99ca3a76b8e1ebc46952859a54a7fa46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: long01
+    second: {fileID: 2100000, guid: c86fcd542dd9b174498fcc7aa824d40b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth_base.009
+    second: {fileID: 2100000, guid: 70c5a1563ba202b4f9c87916fd139615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tongue01.009
+    second: {fileID: 2100000, guid: 0a881a9899732a8498b40761dc31edf7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

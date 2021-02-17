@@ -2,8 +2,56 @@ fileFormatVersion: 2
 guid: f2bd177466f9d7241a79b0c7965e96a7
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
-  externalObjects: {}
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: afro01.002
+    second: {fileID: 2100000, guid: 61be71a0a216386419e3bf4189ec3823, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyebrow008.001
+    second: {fileID: 2100000, guid: 687fc2deec086004f8a3c827ced5bc37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyelashes01.006
+    second: {fileID: 2100000, guid: 0132bb86896b5db48ae147d870f1e91d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: high-poly.006
+    second: {fileID: 2100000, guid: 68c32d862fece70489d93491fb8fa8d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jacket_tie_pants
+    second: {fileID: 2100000, guid: 9236c4aa0c8e0044196aca09ce8de519, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: male_generic.006
+    second: {fileID: 2100000, guid: 2a0af1369be6bbb49b0e8d352b30cf00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoes03.005
+    second: {fileID: 2100000, guid: 382987b93135e104fb7ab2dac68099fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth_base.006
+    second: {fileID: 2100000, guid: 9ca22160343bb0e42af6527244fb166d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tongue01.006
+    second: {fileID: 2100000, guid: 144841f1b6d98b342bbb9f2532d694e4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

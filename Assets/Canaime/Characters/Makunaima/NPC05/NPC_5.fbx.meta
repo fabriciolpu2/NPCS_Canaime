@@ -2,8 +2,56 @@ fileFormatVersion: 2
 guid: f627dca9cd90aba4697fa07cabb3e7ce
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
-  externalObjects: {}
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyebrow008
+    second: {fileID: 2100000, guid: 6a53eaee8fc69d24d9dc0753f5e09808, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyelashes01.005
+    second: {fileID: 2100000, guid: 13b8faa8e1ff3144d9f14dfbad456f8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: high-poly.005
+    second: {fileID: 2100000, guid: a8b89915fe81a6346862c69bafc3f1cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_suit_01
+    second: {fileID: 2100000, guid: 61f335608f1895f448d71f83ded32b9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: male_generic.005
+    second: {fileID: 2100000, guid: 5094c26a8a046d746ae0f6b91442f79f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoes04
+    second: {fileID: 2100000, guid: 7ade5df2c0f09bb49a00b15280ebad0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: short01
+    second: {fileID: 2100000, guid: 2bd9d69311590654d8150bbbc65c2e84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth_base.005
+    second: {fileID: 2100000, guid: 4431c01c337ae24489dc854a1b0f2111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tongue01.005
+    second: {fileID: 2100000, guid: cfeee26039b77484488f20d79415ca0c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -2,8 +2,61 @@ fileFormatVersion: 2
 guid: 670dc8f0abf14a3449e6b8dc3447a8d6
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
-  externalObjects: {}
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: braid01
+    second: {fileID: 2100000, guid: 4da7c56e06cdf52498db8c3c2345c1cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyebrow001
+    second: {fileID: 2100000, guid: 63f624b31a739f54780cb1e16a21a8f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyelashes01.007
+    second: {fileID: 2100000, guid: 885bfa3587803a94884d0fc628ddfc26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: f_dress_01
+    second: {fileID: 2100000, guid: d2b238e4b8c759b40b1cfed8d2b85a95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: female_generic
+    second: {fileID: 2100000, guid: d930f4260c8b0b6488aec33b9ea1daa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: high-poly.007
+    second: {fileID: 2100000, guid: b426229143b14c54d9d561826f080803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: high_heels_library
+    second: {fileID: 2100000, guid: 4f8d0f640313ceb458a7f3b731757c3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pearl_necklace
+    second: {fileID: 2100000, guid: bf1a90c07ca77524aa828d63b99ac00e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth_base.007
+    second: {fileID: 2100000, guid: 79a23fae921ee9d488f2bd96d43a8320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tongue01.007
+    second: {fileID: 2100000, guid: b635831c92e7c7d4cb495bc8ff40c463, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
